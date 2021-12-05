@@ -7,6 +7,8 @@
 
 Esse projeto foi iniciado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Você pode verificar esse projeto rodando aqui https://pomodoro-app-next.vercel.app/
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você tem o [Node.js](https://nodejs.org/pt-br/download/current/) instalado e o npm.
